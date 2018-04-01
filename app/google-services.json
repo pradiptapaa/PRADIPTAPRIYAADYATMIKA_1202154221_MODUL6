@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "849598726068",
+    "firebase_url": "https://pradiptapriyaadyatmika12021542.firebaseio.com",
+    "project_id": "pradiptapriyaadyatmika12021542",
+    "storage_bucket": "pradiptapriyaadyatmika12021542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849598726068:android:82157cf756764905",
+        "android_client_info": {
+          "package_name": "pradiptapa.latihan.pradiptapriyaadyatmika_1202154221_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849598726068-tqb9b5697g8ke9qv670kpg0nlhoq8bcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pradiptapa.latihan.pradiptapriyaadyatmika_1202154221_modul6",
+            "certificate_hash": "39a8502a8542b5ae4264e17e727fa32cd930da30"
+          }
+        },
+        {
+          "client_id": "849598726068-o4dpdqk7culo7isv2m3a2gtroudiu618.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUHfDWwoJ9C9YSkBAw5JpB89Wa9cIbAWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849598726068-o4dpdqk7culo7isv2m3a2gtroudiu618.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
